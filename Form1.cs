@@ -14,7 +14,7 @@ namespace assignment5_1
     {
         private int guessCount = 0;
         private int randomNumber;
-        string numberLog = "";
+        private string numberLog = "";
 
         public Form1()
         {
